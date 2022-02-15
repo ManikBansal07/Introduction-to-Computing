@@ -1,7 +1,7 @@
 #Question 1
 
-ENTER ANY STRING: My name is Manik Bansal. My SID is 21103108
-{'My': 2, 'name': 1, 'is': 2, 'Manik': 1, 'Bansal.': 1, 'SID': 1, '21103108': 1}
+ENTER ANY STRING: My name is Manik Bansal, and my SID is 21103108
+{'my': 2, 'name': 1, 'is': 2, 'manik': 1, 'bansal,': 1, 'and': 1, 'sid': 1, '21103108': 1}
 
 
 #Question 2
