@@ -1,6 +1,7 @@
 #Question 1
 
 a=str(input("ENTER ANY STRING: "))
+a = a.lower()
 list=a.split() 
 dict={} 
 if list.__len__()==1:   
